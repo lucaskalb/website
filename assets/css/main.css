@@ -64,11 +64,10 @@ body {
 /* Header responsivo */
 header {
   margin-bottom: 1rem;
-  padding: 1rem;
   border-radius: 8px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: baseline;
   flex-wrap: wrap;
   gap: 1rem;
   width: 100%;
@@ -76,11 +75,15 @@ header {
 
 header h1 {
   margin: 0;
-  color: var(--mauve);
   flex-shrink: 0;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   line-height: 1.2;
 }
+
+header h1  a {
+  color: var(--lavender);
+}
+
 
 /* Navegação responsiva */
 nav {
@@ -141,12 +144,16 @@ main {
 
 /* Footer responsivo */
 footer {
-  border-top: 1px solid var(--surface0);
   margin-top: 1rem;
-  background-color: var(--mantle);
   padding: 1rem;
-  border-radius: 8px;
   width: 100%;
+  text-align: center;
+  font-size: 0.7em;
+  color: var(--surface2)
+}
+
+footer a {
+  color: var(--surface2)
 }
 
 /* Links responsivos */
@@ -178,7 +185,6 @@ h2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
   color: var(--peach);
-  border-bottom: 2px solid var(--surface1);
   padding-bottom: 0.5rem;
 }
 
@@ -459,6 +465,10 @@ img {
   margin: 1rem 0;
 }
 
+header h1  a:hover{
+  text-decoration: none;
+}
+
 /* Breakpoints responsivos */
 
 /* Dispositivos móveis pequenos (até 480px) */
@@ -573,10 +583,6 @@ img {
     max-width: 90%;
   }
   
-  header h1 {
-    font-size: 1.6rem;
-  }
-  
   .skills-section {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -593,10 +599,6 @@ img {
 @media (min-width: 1201px) {
   .container {
     max-width: 1200px;
-  }
-  
-  header h1 {
-    font-size: 1.8rem;
   }
   
   main {

@@ -4,6 +4,7 @@ date = 2023-01-01T08:00:00-07:00
 draft = false
 +++
 
-Laborum voluptate pariatur ex culpa magna nostrud est incididunt fugiat
-pariatur do dolor ipsum enim. Consequat tempor do dolor eu. Non id id anim anim
-excepteur excepteur pariatur nostrud qui irure ullamco.
+# Lucas Kalb
+## Software, IA, Produto, História, Filosofia
+[Contato](/contato) [Github](https://github.com/lucaskalb) [Linkedin](https://br.linkedin.com/in/lucas-kalb-77b3852a)
+

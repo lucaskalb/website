@@ -39,7 +39,7 @@ draft: false
 - Integração de emissão de boletos com Iugu (produto Receba Fácil)
 - **Principais tecnologias**: Java 8, Spring Boot, WildFly Swarm, Kubernetes, AWS, Arquitetura Microsserviço, Terraform, Jenkins, Sonarqube, Prometheus, PostgreSQL, Node, Go, Python
 
-### Desenvolvedor
+### Desenvolvedor (Outsourcing)
 **Texo IT** | março de 2015 - maio de 2017 (2 anos 3 meses)
 
 - Participação nos projetos ECF e eSocial da Thompson Reuters
@@ -73,7 +73,7 @@ draft: false
 - **Projeto de Iniciação Científica**: Redes Neurais Artificiais
 - **Modalidade**: Inteligência Artificial
 - **Atividades**: pesquisas bibliográficas, levantamento de dados do sistema, formação de banco de dados e estudo da arquitetura de redes neurais
-- **Experiências**: Arquitetura redes neurais, linguagem de programação MATLAB, programação orientado à eventos
+- **Experiências**: Arquitetura redes neurais, linguagem de programação MATLAB
 
 ## Habilidades Técnicas
 
@@ -102,8 +102,7 @@ draft: false
 **Universidade da Região de Joinville** | 2008 - 2011
 
 - Foco em Engenharia de Software e TI
-- Projeto de Iniciação Científica em Redes Neurais Artificiais
-- Especialização em Inteligência Artificial
+- Projeto de Iniciação Científica em Redes Neurais Artificiais (IA)
 
 ## Idiomas
 
@@ -112,27 +111,28 @@ draft: false
 
 ## Principais Realizações
 
-### 🎯 **Conta Azul - Tech Lead**
+### **Conta Azul - Tech Lead**
 - **Expansão em 50%** do uso do Receba Fácil
 - **Estabilização e redução de custos** de manutenção
 - **Aumento no faturamento** da empresa
 - **Redução de custos operacionais** financeiros em emissão de notas fiscais
 
-### 🚀 **Integrações de Pagamento**
+### **Integrações de Pagamento**
 - **Stone**: Integração de meios de pagamentos via cartão de crédito
-- **Iugu**: Integração de emissão de boletos (Receba Fácil)
+- **Iugu e BS2**: Integração de emissão de títulos de cobranças (Receba Fácil)
+- **iUPay**: Integração de títulos de cobranças à pagar (DDA - Débito Direto Autorizado) 
 - **Sistemas críticos** para gestão financeira empresarial
 
-### 🏗️ **Arquitetura e Infraestrutura**
+### **Arquitetura e Infraestrutura**
 - **Microsserviços** com Spring Boot e Kubernetes
 - **AWS** com Terraform para infraestrutura como código
 - **Monitoramento** com Prometheus e Sonarqube
 - **CI/CD** com Jenkins
 
-### 🧠 **Pesquisa Acadêmica**
+### **Pesquisa Acadêmica**
 - **Redes Neurais Artificiais** - Iniciação Científica
 - **Inteligência Artificial** - Universidade da Região de Joinville
-- **MATLAB** - Programação orientada a eventos
+- **MATLAB**
 - **Arquitetura de redes neurais**
 
 ## Interesses

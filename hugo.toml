@@ -4,11 +4,6 @@ title = 'Lucas Kalb'
 
 [menus]
   [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-
-  [[menus.main]]
     name = 'Experiência'
     pageRef = '/experiencias'
     weight = 20
@@ -17,11 +12,6 @@ title = 'Lucas Kalb'
     name = 'Posts'
     pageRef = '/posts'
     weight = 30
-
-  [[menus.main]]
-    name = 'Tags'
-    pageRef = '/tags'
-    weight = 40
 
 [module]
   [module.hugoVersion]

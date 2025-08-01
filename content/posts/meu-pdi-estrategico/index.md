@@ -9,9 +9,7 @@ A virada veio quando percebi que poderia aplicar o modelo de OKRs ao meu própri
 
 O que facilitou esse processo foi um **assistente inteligente (baseado em GPT).**
 
-![Meu PDI Estrategico](meu-pdi.webp)
-
-O  [**Meu PDI Estratégico](https://chatgpt.com/g/g-67c63ec25c5c8191bd9b92235d814a0c-meu-pdi-estrategico)**   me guiou no passo a passo para:
+O  **[Meu PDI Estratégico](https://chatgpt.com/g/g-67c63ec25c5c8191bd9b92235d814a0c-meu-pdi-estrategico)**   me guiou no passo a passo para:
 
 - Entendimento dos OKRs da empresa
 - Definição de objetivos pessoais
@@ -21,7 +19,7 @@ O  [**Meu PDI Estratégico](https://chatgpt.com/g/g-67c63ec25c5c8191bd9b92235d81
 
 Com esse modelo, o PDI deixou de ser burocrático e passou a ser estratégico.
 
-Se você também busca um desenvolvimento conectado com sua carreira e com os objetivos do time, recomendo testar o [**Meu PDI Estratégico](https://chatgpt.com/g/g-67c63ec25c5c8191bd9b92235d814a0c-meu-pdi-estrategico)** que me ajudou nesse processo.
+Se você também busca um desenvolvimento conectado com sua carreira e com os objetivos do time, recomendo testar o **[Meu PDI Estratégico](https://chatgpt.com/g/g-67c63ec25c5c8191bd9b92235d814a0c-meu-pdi-estrategico)** que me ajudou nesse processo.
 
 ## **Como funciona esse modelo?**
 
@@ -39,6 +37,8 @@ A partir disso, o assistente gera uma **sugestão de PDI estruturado**, com:
 As sugestões são personalizáveis: você pode ajustá-las interativamente, e o assistente propõe novas ideias conforme você compartilha oportunidades ou impedimentos do seu contexto.
 
 Por fim, você pode solicitar um **questionário de autoavaliação** e **gerar um relatório completo do seu PDI estratégico** — pronto para uso.
+
+![Esquema](meu-pdi-gf.webp)
 
 ## Por que usar esse modelo?
 
