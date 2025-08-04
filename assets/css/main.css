@@ -649,3 +649,26 @@ header h1  a:hover{
 @media (prefers-color-scheme: dark) {
   /* As cores já estão configuradas para modo escuro */
 }
+
+/* Estilos para metadados dos posts */
+.post-meta {
+  font-size: 0.9rem;
+  color: var(--subtext0);
+  margin: 0 0 1.5rem 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+}
+
+.post-meta a {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.dateReadingTime {
+  font-size: 0.7rem;
+  color: var(--overlay0);
+}
+
+

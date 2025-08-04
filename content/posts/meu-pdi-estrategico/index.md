@@ -1,7 +1,8 @@
 +++
 date = '2025-07-29T22:31:50-03:00'
 draft = true
-title = 'Transformando meu PDI'
+title = 'Transformando meu PDI: de obrigação chata a ferramenta de crescimento real'
+readingTime = "2 minutos"
 +++
 Durante anos, encarei o PDI como algo teórico e pouco útil. Preenchia por obrigação, mas nunca via resultado prático. Faltava conexão com meu dia a dia e com o que a empresa realmente precisava.
 

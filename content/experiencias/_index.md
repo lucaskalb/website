@@ -4,76 +4,70 @@ date: 2025-07-29
 draft: false
 ---
 
-### Senior Software Engineer
-**Conta Azul** | agosto de 2022 - julho de 2025 (3 anos)
+## Freelance
+*07/2025 - presente* ~ **Sênior Developer, freelance**
 
-- Desenvolvimento e manutenção de sistemas críticos para gestão empresarial
-- Trabalho com tecnologias modernas de desenvolvimento
-- Colaboração em equipes ágeis e multidisciplinares
-- Foco em qualidade de código e boas práticas de desenvolvimento
+Atualmente estou trabalhando como desenvolvedor freelance, se você precisa de algum serviço [veja aqui]().
 
-### Engenheiro de Software
-**Aegro** | maio de 2021 - julho de 2022 (1 ano 3 meses)
+### Conta Azul
+*05/2025 - 07/2025* ~ **Tech lead position (full-time)**
 
-- Desenvolvimento de soluções para o setor agrícola
-- Implementação de funcionalidades para gestão de propriedades rurais
-- Trabalho com tecnologias modernas de desenvolvimento
-- Colaboração em equipes ágeis
+Lider técnico do time de cobranças responsável por gerenciar emissão de títulos à receber de nossos clientes como boletos, pix, cartão de crédito. 
+Também funcionalidade de consulta Serasa e inadimplência.
 
-### Tech Lead
-**Conta Azul** | julho de 2018 - maio de 2021 (2 anos 11 meses)
+*08/2022 - 05/2025* ~ **Sênior Java Developer (full-time)**
 
-- Liderança técnica responsável pelos produtos do módulo de meios de recebimentos
-- **Principais objetivos atingidos**:
-  - Expansão em 50% do uso do Receba Fácil
-  - Estabilização e redução de custos relativos à manutenção
-  - Aumento no faturamento da empresa
-  - Redução de custos operacionais financeiros em emissão de notas fiscais
-- Gestão de equipes de desenvolvimento
-- Definição de arquiteturas e padrões de código
+Implementação de features de transação de pagamento títulos de pagamentos e transferências bancárias de [Conta PJ](https://contaazul.com/conta-pj/). 
+Integração com iUPay para importação de DDA (Débito Direto Autorizado) também para a [Conta PJ](https://contaazul.com/conta-pj/). 
+Mentoria de colegas, colaboração com time de arquitetura, manutenção e monitoramento de serviços com alto throughput.
 
-### Software Engineer
-**Conta Azul** | maio de 2017 - junho de 2018 (1 ano 2 meses)
+*07/2018 - 05/2021* ~ **Tech lead (full-time)**
 
-- Participação na integração de meios de pagamentos via cartão de crédito com a Stone
-- Integração de emissão de boletos com Iugu (produto Receba Fácil)
-- **Principais tecnologias**: Java 8, Spring Boot, WildFly Swarm, Kubernetes, AWS, Arquitetura Microsserviço, Terraform, Jenkins, Sonarqube, Prometheus, PostgreSQL, Node, Go, Python
+Liderança técnica do time de meios de recebimentos responsável pelo produto [Receba Fácil](https://ajuda.contaazul.com/hc/pt-br/articles/360034708371-Cobran%C3%A7as-da-Conta-Azul).
+Integração com instituições de pagamento Iugu e BS2. 
 
-### Desenvolvedor (Outsourcing)
-**Texo IT** | março de 2015 - maio de 2017 (2 anos 3 meses)
+*05/2017 - 06/2021* ~ **Pleno Java Developer (full-time)**
 
-- Participação nos projetos ECF e eSocial da Thompson Reuters
-- Migração do Portal TOTVS
-- **Principais tecnologias**: Java, Oracle, SQL Server, MySQL, Spring Boot, JavaEE, EJB, JSF, JUnit, Git, Sonarqube, Maven
+Participei na integração de meios de pagamentos via cartão de crédito com a Stone, 
+também na integração de emissão de boletos com Iugu, Arquivo de remessa e retorno de instituições bancárias.
 
-### Programador III
-**SoftExpert - Software for Excellence** | março de 2014 - março de 2015 (1 ano 1 mês)
 
-- Participação na sustentação do backend em Java dos produtos ECM e BPM
-- Manutenção e evolução de sistemas legados
-- Desenvolvimento de novas funcionalidades
+### Aegro
+*05/2021 - 07/2022* ~ **Sênior Java Developer (full-time)**
 
-### Analista de Sistemas
-**TOTVS** | junho de 2012 - novembro de 2013 (1 ano 6 meses)
+Ajudei na implementação de soluções de gestão para o setor agrícola como controle de estoque e compras. 
+Também atuei como Tech Lead do time de backoffice na integração com NetSuite.
 
-- Participação na construção do TOTVS LMS
-- **Principais tecnologias**: JavaEE 6, Spring 3, MySQL, SCORM, JSF 2, Hibernate
-- Desenvolvimento de funcionalidades para sistema de gestão de aprendizado
+### Outsera
+*03/2015 - 05/2017* ~ **Pleno Java Developer (outsourcing)**
 
-### Desenvolvedor
-**Brava ECM** | setembro de 2010 - maio de 2011 (9 meses)
+Participação na implementação de softwares nos projetos ECF e eSocial da Thompson Reuters, e migração do Portal TOTVS.
 
-- Desenvolvimento de portais corporativos integrados com TOTVS ECM
-- Utilização de Flex, Java Portlets e Liferay
-- Criação de interfaces e integrações entre sistemas
+### SoftExpert
+*03/2014 - 02/2015* ~ **Júnior Java Developer (full-time)**
 
-### Assistente de Desenvolvimento de Projetos
-**Univille** | setembro de 2008 - dezembro de 2009 (1 ano 4 meses)
+Participação na sustentação do backend em Java dos produtos ECM e BPM, 
+manutenção e evolução de sistemas legados e desenvolvimento de novas funcionalidades.
 
-- **Projeto de Iniciação Científica**: Redes Neurais Artificiais
-- **Modalidade**: Inteligência Artificial
-- **Atividades**: pesquisas bibliográficas, levantamento de dados do sistema, formação de banco de dados e estudo da arquitetura de redes neurais
-- **Experiências**: Arquitetura redes neurais, linguagem de programação MATLAB
+
+### TOTVS
+*06/2012 - 11/2013* ~ **Júnior Java Developer (CLT)**
+
+Participação na construção do TOTVS LMS, 
+fui responsável por implementar o player de conteúdo no padrão [SCORM](https://scorm.com/scorm-explained/one-minute-scorm-overview/).
+
+
+### Brava ECM
+*06/2012 - 11/2013* ~ **Júnior Developer (Estágio)**
+
+Desenvolvimento de portais corporativos integrados com TOTVS ECM. Utilização de Flex, Java Portlets e Liferay.
+
+
+### UNIVILLE
+*09/2008 - 12/2009* ~ **Assistente de Desenvolvimento de Projetos (Estágio)**
+
+Ajudei no projeto de iniciação científica em Redes Neurais Artificiais 
+onde tive experiência com arquitetura de redes neurais artificiais e linguagem de programação MATLAB
 
 ## Habilidades Técnicas
 
@@ -88,12 +82,12 @@ draft: false
 - **Backend**: Spring Boot, JavaEE, EJB, JSF
 - **Banco de Dados**: PostgreSQL, MySQL, Oracle, SQL Server
 - **Cloud & DevOps**: AWS, Kubernetes, Terraform, Jenkins
-- **Monitoramento**: Prometheus, Sonarqube
+- **Monitoramento**: Prometheus, Sonarqube, Datadog, NewRelic, Grafana
 
 ### Competências Principais
-- **Liderança de Equipe** - Experiência comprovada
+- **Liderança de Equipe** - Experiência de 7 anos
 - **Amazon SQS** - Especialista
-- **Scrum** - Certificado
+- **Scrum** - Experiência de 10+ anos
 - **Arquitetura Microsserviços** - Avançado
 
 ## Educação
@@ -101,39 +95,31 @@ draft: false
 ### Bacharelado em Sistemas de Informação
 **Universidade da Região de Joinville** | 2008 - 2011
 
-- Foco em Engenharia de Software e TI
-- Projeto de Iniciação Científica em Redes Neurais Artificiais (IA)
-
 ## Idiomas
 
-- **Português** - Nativo ou Bilíngue
-- **Inglês** - Limited Working
+- **Português** - Nativo
+- **Inglês** - Intermediário
 
 ## Principais Realizações
 
 ### **Conta Azul - Tech Lead**
 - **Expansão em 50%** do uso do Receba Fácil
 - **Estabilização e redução de custos** de manutenção
-- **Aumento no faturamento** da empresa
+- **Aumento no faturamento em 40%** da empresa
 - **Redução de custos operacionais** financeiros em emissão de notas fiscais
 
 ### **Integrações de Pagamento**
 - **Stone**: Integração de meios de pagamentos via cartão de crédito
 - **Iugu e BS2**: Integração de emissão de títulos de cobranças (Receba Fácil)
 - **iUPay**: Integração de títulos de cobranças à pagar (DDA - Débito Direto Autorizado) 
+- **NetSuite**: Integração de para gerenciamento de planos de contas e cobrança
 - **Sistemas críticos** para gestão financeira empresarial
 
 ### **Arquitetura e Infraestrutura**
-- **Microsserviços** com Spring Boot e Kubernetes
+- **Microsserviços** com Spring Boot, Go, NodeJs e Kubernetes
 - **AWS** com Terraform para infraestrutura como código
-- **Monitoramento** com Prometheus e Sonarqube
+- **Monitoramento** com Prometheus, NewRelic, Datadog e Grafana
 - **CI/CD** com Jenkins
-
-### **Pesquisa Acadêmica**
-- **Redes Neurais Artificiais** - Iniciação Científica
-- **Inteligência Artificial** - Universidade da Região de Joinville
-- **MATLAB**
-- **Arquitetura de redes neurais**
 
 ## Interesses
 
@@ -143,3 +129,4 @@ draft: false
 - Inteligência artificial e machine learning
 - Inovação tecnológica
 - Mentoria e desenvolvimento de talentos 
+

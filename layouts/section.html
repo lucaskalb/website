@@ -2,6 +2,20 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
   {{ range .Pages }}
-<h2><a href="{{ .RelPermalink }}">{{.ReadTime}} {{ .LinkTitle }}</a></h2>
+<!-- 
+    <h2>
+      <p class="post-meta">
+        {{ .Date | time.Format ":date_long" }} · {{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ .ReadTime }} min{{ end }}
+      </p>
+      <a style="color:var(--peach)" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+    </h2>
+-->
+
+        <span class="dateReadingTime">
+          {{ .Date | time.Format ":date_long" }} · {{ if .Params.readingTime }}{{ .Params.readingTime }}{{ else }}{{ .ReadTime }} min{{ end }}
+        </span>
+      <p class="post-meta">
+        <a style="color:var(--peach)" href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+      </p>
   {{ end }}
 {{ end }}
