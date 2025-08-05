@@ -26,6 +26,7 @@ e na mentoria de profissionais em diferentes estágios da carreira.
 - **Banco de Dados**: PostgreSQL, MySQL, Oracle, SQL Server
 - **Cloud & DevOps**: AWS, Kubernetes, Terraform, Jenkins
 - **Monitoramento**: Prometheus, Sonarqube, Datadog, NewRelic, Grafana
+- **IA**: protocolo MCP, prompt engineering, workflows com N8n  
 - **CI/CD** com Jenkins
 
 ### Competências Principais
