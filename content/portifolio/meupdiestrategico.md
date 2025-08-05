@@ -1,8 +1,9 @@
 +++
-date = '2025-07-29T22:31:50-03:00'
-draft = true
-title = 'Transformando meu PDI: de obrigação chata a ferramenta de crescimento real'
-readingTime = "2 minutos"
+title = 'Meu PDI Estratégico'
+date = 2023-01-15T09:00:00-07:00
+draft = false
+showDateTime=false
+img = '/portifolio/meu-pdi-estrategico.png'
 +++
 Durante anos, encarei o PDI como algo teórico e pouco útil. Preenchia por obrigação, mas nunca via resultado prático. Faltava conexão com meu dia a dia e com o que a empresa realmente precisava.
 
@@ -38,8 +39,6 @@ A partir disso, o assistente gera uma **sugestão de PDI estruturado**, com:
 As sugestões são personalizáveis: você pode ajustá-las interativamente, e o assistente propõe novas ideias conforme você compartilha oportunidades ou impedimentos do seu contexto.
 
 Por fim, você pode solicitar um **questionário de autoavaliação** e **gerar um relatório completo do seu PDI estratégico** — pronto para uso.
-
-![Esquema](meu-pdi-gf.webp)
 
 ## Por que usar esse modelo?
 

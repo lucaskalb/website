@@ -3,15 +3,26 @@ languageCode = 'pt-br'
 title = 'LK'
 
 [menus]
+
+  [[menus.main]]
+    name = 'Expertise'
+    pageRef = '/expertise'
+    weight = 1
+
   [[menus.main]]
     name = 'Experiência'
     pageRef = '/experiencias'
-    weight = 20
+    weight = 2
 
   [[menus.main]]
-    name = 'Posts'
-    pageRef = '/posts'
-    weight = 30
+    name = 'Portifolio'
+    pageRef = '/portifolio'
+    weight = 3
+
+  [[menus.main]]
+    name = 'Contato'
+    pageRef = '/contato'
+    weight = 5
 
 [module]
   [module.hugoVersion]

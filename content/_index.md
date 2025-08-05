@@ -5,6 +5,6 @@ draft = false
 +++
 
 # Lucas Kalb
-## Software, IA, Produto, História, Filosofia
-[Contato](/contato) [Github](https://github.com/lucaskalb) [Linkedin](https://br.linkedin.com/in/lucas-kalb-77b3852a)
+## Software, IA, Produto e Curiosidades do Mundo Tech
+[Contato](/contato) [Github](https://github.com/lucaskalb) [LinkedIn](https://br.linkedin.com/in/lucas-kalb-77b3852a)
 
