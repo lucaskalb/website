@@ -16,30 +16,33 @@ e na mentoria de profissionais em diferentes estágios da carreira.
 ### Linguagens de Programação
 - **Java** - Avançado
 - **SQL** - Avançado
-- **JavaScript/Node.js** - Intermediário
+- **JS/Node.js** - Intermediário
 - **Go** - Intermediário
+- **TypeScript** - Intermediário
+- **React e Next.js** - Básico
 - **Python** - Básico
-- **Shell Script** - Básico
+- **Bash e Zsh** - Básico
 
 ### Frameworks e Tecnologias
 - **Backend**: Spring Boot, JavaEE, EJB, JSF
 - **Banco de Dados**: PostgreSQL, MySQL, Oracle, SQL Server
-- **Cloud & DevOps**: AWS, Kubernetes, Terraform, Jenkins
+- **Cloud**: AWS, Vercel
 - **Monitoramento**: Prometheus, Sonarqube, Datadog, NewRelic, Grafana
 - **IA**: protocolo MCP, prompt engineering, workflows com N8n  
 - **CI/CD** com Jenkins
+- **Stack Automação e IA** com N8n, OpenAI GPT e Prompt Engineering 
 
 ### Competências Principais
 - **Liderança de Equipe** - Experiência de 7 anos
 - **Gestão de Projetos** - Experiência de 7 anos
-- **Scrum** - Experiência de 10+ anos
+- **Scrum** - Experiência de mais de 10 anos
 - **Arquitetura Microsserviços** - Avançado
 
 ### **Arquitetura e Infraestrutura**
 - **Microsserviços** com Spring Boot, Go, NodeJs e 
-- **Kubernetes** 
-- **AWS** com Terraform para infraestrutura como código
-- **UML, MDL, C4** com Terraform para infraestrutura como código
+- **Kubernetes** para orquestração de máquinas em produção
+- **Terraform** para infraestrutura como código
+- **Desenho arquiteturais** com UML, MDL, C4 
 - **Arquitetura técnica e soluções** (AS-IS ~ TO-BE) experiência de 7 anos 
 
 ---
@@ -50,7 +53,7 @@ compreensíveis e sustentáveis — sempre com foco em gerar valor para a empres
 
 - **Escolha da melhor ferramenta para cada necessidade**, com base em critérios técnicos e estratégicos.
 - **Estruturação de aplicações e ambientes em nuvem** de acordo com os princípios do The Twelve-Factor App.
-- **Arquitetura de software fundamentada** em uma abordagem simplificada do *Clean Architecture*, *DDD (Domain-Driven Design)* e *Arquitetura em Camadas*.
+- **Arquitetura de software fundamentada** com base em *assement* e uma abordagem simplificada do *Clean Architecture*, *DDD (Domain-Driven Design)* e *Arquitetura em Camadas*.
 - **Gestão de projetos com base em metodologias ágeis**, como *SCRUM*, priorizando objetividade e a redução de reuniões improdutivas.
 - **Integração entre Desenvolvimento, Segurança e Operações** por meio de práticas de *DevSecOps* e do conceito de secure by design.
 - **Desenvolvimento orientado a testes (TDD)** aplicado à lógica de domínio, quando pertinente ao contexto.

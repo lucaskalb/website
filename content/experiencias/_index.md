@@ -18,6 +18,12 @@ Implementação de features de transação de pagamento títulos de pagamentos e
 Integração com iUPay para importação de DDA (Débito Direto Autorizado) também para a [Conta PJ](https://contaazul.com/conta-pj/). 
 Mentoria de colegas, colaboração com time de arquitetura, manutenção e monitoramento de serviços com alto throughput.
 
+### Aegro
+*05/2021 - 07/2022* ~ **Sênior Java Developer e Tech Lead (full-time)**\
+Ajudei na implementação de soluções de gestão para o setor agrícola como controle de estoque e compras. 
+Também atuei como Tech Lead do time de backoffice na integração com NetSuite.
+
+### Conta Azul
 *07/2018 - 05/2021* ~ **Tech lead (full-time)**\
 Liderança técnica do time de meios de recebimentos responsável pelo produto [Receba Fácil](https://ajuda.contaazul.com/hc/pt-br/articles/360034708371-Cobran%C3%A7as-da-Conta-Azul).
 Integração com instituições de pagamento Iugu e BS2. 
@@ -25,11 +31,6 @@ Integração com instituições de pagamento Iugu e BS2.
 *05/2017 - 06/2021* ~ **Pleno Java Developer (full-time)**\
 Participei na integração de meios de pagamentos via cartão de crédito com a Stone, 
 também na integração de emissão de boletos com Iugu, Arquivo de remessa e retorno de instituições bancárias.
-
-### Aegro
-*05/2021 - 07/2022* ~ **Sênior Java Developer (full-time)**\
-Ajudei na implementação de soluções de gestão para o setor agrícola como controle de estoque e compras. 
-Também atuei como Tech Lead do time de backoffice na integração com NetSuite.
 
 ### Outsera
 *03/2015 - 05/2017* ~ **Pleno Java Developer (outsourcing)**\
